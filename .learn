@@ -4,3 +4,5 @@ tags:
 languages:
   - ruby
 
+
+parent_template: git@github.com:learn-co-curriculum/sinatra-basic-sessions-lab.git
