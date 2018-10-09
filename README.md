@@ -22,4 +22,7 @@ You'll be coding your solution in both `app.rb` and `views`.
 
 5. In the view rendered by the controller action, display the item the user entered to purchase.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-basic-sessions-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-basic-sessions-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Sinatra Basic Sessions Lab</p>
